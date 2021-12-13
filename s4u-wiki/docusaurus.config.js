@@ -79,6 +79,19 @@ const config = {
               },
             ],
           },
+          {
+            title: "Team",
+            items: [
+              {
+                label: "Iury De Moraes",
+                href: "https://www.linkedin.com/in/iurycardoso/",
+              },
+              {
+                label: "Matheus Angellos",
+                href: "https://www.linkedin.com/in/matheus-angellos-b2453297/",
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} S4U.`,
       },
