@@ -6,6 +6,8 @@ hide_table_of_contents: true
 
 # Service 4 YOU
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3a3a430b-6a15-4f38-a9a5-fdf2e83dfbb0/deploy-status)](https://app.netlify.com/sites/s4u/deploys) 
+
 # Como rodar o projeto
 
 ### 1 - Efetuar o clone do projeto
